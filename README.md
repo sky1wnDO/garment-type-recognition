@@ -1,2 +1,3 @@
-h1 music-genre-recognition
+# h1 Распознавание музыкального жанра
 Владос, исправь название репо на music-genre-recognition
+Натури Владос исправь
